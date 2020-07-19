@@ -1,1 +1,2 @@
-# this project has implemented in .net framework console app
+# top 10 words in a text file
+lists top 10 words in a text file.
